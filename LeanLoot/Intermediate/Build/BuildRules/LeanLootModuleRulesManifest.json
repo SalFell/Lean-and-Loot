@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"M:\\Unreal Projects\\Lean-and-Loot\\LeanLoot\\Intermediate\\Source\\LeanLoot.Build.cs",
+		"M:\\Unreal Projects\\Lean-and-Loot\\LeanLoot\\Intermediate\\Source\\LeanLoot.Target.cs",
+		"M:\\Unreal Projects\\Lean-and-Loot\\LeanLoot\\Intermediate\\Source\\LeanLootClient.Target.cs",
+		"M:\\Unreal Projects\\Lean-and-Loot\\LeanLoot\\Intermediate\\Source\\LeanLootEditor.Target.cs",
+		"M:\\Unreal Projects\\Lean-and-Loot\\LeanLoot\\Intermediate\\Source\\LeanLootServer.Target.cs"
+	],
+	"EngineVersion": "5.5.3"
+}
